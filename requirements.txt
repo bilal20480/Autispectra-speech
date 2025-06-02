@@ -1,0 +1,7 @@
+streamlit
+speechrecognition
+textblob
+pyttsx3
+nltk
+google-generativeai
+pandas
