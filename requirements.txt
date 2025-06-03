@@ -5,6 +5,6 @@ gTTS
 nltk
 google-generativeai
 pandas
-sounddevice
+sounddevice==0.4.6
 scipy
 numpy
