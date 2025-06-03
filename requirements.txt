@@ -1,7 +1,7 @@
 streamlit
 speechrecognition
 textblob
-pyttsx3
+gTTS
 nltk
 google-generativeai
 pandas
